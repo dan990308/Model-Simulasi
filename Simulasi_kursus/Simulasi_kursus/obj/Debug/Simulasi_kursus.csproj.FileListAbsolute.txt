@@ -1,0 +1,16 @@
+E:\STMIK-PERTI ASIA\TUGAS\Model&Simulasi\Simulasi_kursus\Simulasi_kursus\bin\Debug\Simulasi_kursus.exe.config
+E:\STMIK-PERTI ASIA\TUGAS\Model&Simulasi\Simulasi_kursus\Simulasi_kursus\bin\Debug\Simulasi_kursus.exe
+E:\STMIK-PERTI ASIA\TUGAS\Model&Simulasi\Simulasi_kursus\Simulasi_kursus\bin\Debug\Simulasi_kursus.pdb
+E:\STMIK-PERTI ASIA\TUGAS\Model&Simulasi\Simulasi_kursus\Simulasi_kursus\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\STMIK-PERTI ASIA\TUGAS\Model&Simulasi\Simulasi_kursus\Simulasi_kursus\obj\Debug\Simulasi_kursus.Form1.resources
+E:\STMIK-PERTI ASIA\TUGAS\Model&Simulasi\Simulasi_kursus\Simulasi_kursus\obj\Debug\Simulasi_kursus.Properties.Resources.resources
+E:\STMIK-PERTI ASIA\TUGAS\Model&Simulasi\Simulasi_kursus\Simulasi_kursus\obj\Debug\Simulasi_kursus.csproj.GenerateResource.Cache
+E:\STMIK-PERTI ASIA\TUGAS\Model&Simulasi\Simulasi_kursus\Simulasi_kursus\obj\Debug\Simulasi_kursus.exe
+E:\STMIK-PERTI ASIA\TUGAS\Model&Simulasi\Simulasi_kursus\Simulasi_kursus\obj\Debug\Simulasi_kursus.pdb
+E:\STMIK-PERTI ASIA\TUGAS\Model&Simulasi\Simulasi_kursus\Simulasi_kursus\obj\Debug\Simulasi_kursus.biayaTetap.resources
+E:\STMIK-PERTI ASIA\TUGAS\Model&Simulasi\Simulasi_kursus\Simulasi_kursus\obj\Debug\Simulasi_kursus.settingData.resources
+E:\STMIK-PERTI ASIA\TUGAS\Model&Simulasi\Simulasi_kursus\Simulasi_kursus\obj\Debug\Simulasi_kursus.settingGrade.resources
+E:\STMIK-PERTI ASIA\TUGAS\Model&Simulasi\Simulasi_kursus\Simulasi_kursus\obj\Debug\Simulasi_kursus.csprojResolveAssemblyReference.cache
+E:\STMIK-PERTI ASIA\TUGAS\Model&Simulasi\Simulasi_kursus\Simulasi_kursus\obj\Debug\Simulasi_kursus.biayaPengadaan.resources
+E:\STMIK-PERTI ASIA\TUGAS\Model&Simulasi\Simulasi_kursus\Simulasi_kursus\obj\Debug\Simulasi_kursus.homeCtrl.resources
+E:\STMIK-PERTI ASIA\TUGAS\Model&Simulasi\Simulasi_kursus\Simulasi_kursus\obj\Debug\Simulasi_kursus.addBiaya.resources
